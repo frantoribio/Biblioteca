@@ -2,11 +2,11 @@
 ## Biblioteca básica en Python.
 Inicialmente es un programa de consola con un menú con tres opciones:
 
-Introducir libro.
+  -Introducir libro.
 
-Listar libros.
+  -Listar libros.
 
-Salir.
+  -Salir.
 
 El programa pide los datos básicos del libro y lo guarda en un fichero de base de datos.
 
